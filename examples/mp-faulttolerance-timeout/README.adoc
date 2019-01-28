@@ -25,9 +25,10 @@ Timeout annotation allows to configure :
 [discrete]
 === Run the application
 
-....
+[source,text]
+----
 mvn clean install tomee:run
-....
+----
 
 [discrete]
 === How does it works?
